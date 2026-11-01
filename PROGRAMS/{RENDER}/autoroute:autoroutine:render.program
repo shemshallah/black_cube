@@ -1,0 +1,6 @@
+if proc=/=./run
+then;
+./recompile
+./boot
+./process:inf+/-
+./loop_factory_loop:./loop

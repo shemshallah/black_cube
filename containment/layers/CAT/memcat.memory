@@ -1,1 +1,3 @@
 MEMCAT:{[item:[temporal_catalog]]:[linke::linke]:[item:[catalog:{MEMORY}]]}
+mic.spec:<<MEM>:<CAT>>
+black_cube/memory/[[item:[catalog]]:MEMCAT]:memory::[linke::linke]

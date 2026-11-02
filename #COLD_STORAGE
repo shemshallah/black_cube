@@ -1,0 +1,4 @@
+point#::{cold_storage}::COLD_STORAGE
+./auto.program::[MAP]
+./auto.program::[linke]
+./auto::../loop_factory:loop

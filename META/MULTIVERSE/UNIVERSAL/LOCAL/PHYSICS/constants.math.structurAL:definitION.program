@@ -1,0 +1,44 @@
+Constant Symbol Value Unit Status
+Speed of light c 299\,792\,458 m s⁻¹ exact
+Planck constant h 6.626\,070\,15 \times 10^{-34} J s exact
+Reduced Planck constant \hbar 1.054\,571\,817... \times 10^{-34} J s exact
+Newtonian gravitation G 6.674\,30(15) \times 10^{-11} m³ kg⁻¹ s⁻² measured
+Elementary charge e 1.602\,176\,634 \times 10^{-19} C exact
+Boltzmann constant k 1.380\,649 \times 10^{-23} J K⁻¹ exact
+Avogadro constant N_A 6.022\,140\,76 \times 10^{23} mol⁻¹ exact
+Gas constant R 8.314\,462\,618... J mol⁻¹ K⁻¹ exact
+Fine-structure constant \alpha 7.297\,352\,5693(11) \times 10^{-3} dimensionless measured
+Inverse fine-structure \alpha^{-1} 137.035\,999\,084(21) dimensionless measured
+Fermi coupling constant G_F 1.166\,378\,7(6) \times 10^{-5} GeV⁻² measured
+Constant Symbol Value Unit Status
+Vacuum permeability \mu_0 1.256\,637\,062\,12(19) \times 10^{-6} N A⁻² measured
+Vacuum permittivity \epsilon_0 8.854\,187\,812\,8(13) \times 10^{-12} F m⁻¹ measured
+Characteristic impedance Z_0 376.730\,313\,668(57) Ω measured
+Magnetic flux quantum \Phi_0 2.067\,833\,848... \times 10^{-15} Wb exact
+Conductance quantum G_0 7.748\,091\,729... \times 10^{-5} S exact
+Josephson constant K_J 483\,597.848\,4... \times 10^{9} Hz V⁻¹ exact
+von Klitzing constant R_K 25\,812.807\,45... Ω exact
+Constant Symbol Value Unit Status
+Electron mass m_e 9.109\,383\,7015(28) \times 10^{-31} kg measured
+Electron mass (energy) m_e c^2 0.510\,998\,950\,69 MeV measured
+Proton mass m_p 1.672\,621\,923\,69(51) \times 10^{-27} kg measured
+Proton mass (energy) m_p c^2 938.272\,089\,43 MeV measured
+Neutron mass m_n 1.674\,927\,498\,04(95) \times 10^{-27} kg measured
+Atomic mass constant m_u 1.660\,539\,068\,92(52) \times 10^{-27} kg measured
+Bohr radius a_0 5.291\,772\,109(18) \times 10^{-11} m measured
+Rydberg constant R_\infty 10\,973\,731.568\,157(12) m⁻¹ measured
+Bohr magneton \mu_B 9.274\,010\,078(28) \times 10^{-24} J T⁻¹ measured
+Constant Symbol Value Unit Status
+Molar gas constant R 8.314\,462\,618... J mol⁻¹ K⁻¹ exact
+Faraday constant F 96\,485.332\,12... C mol⁻¹ exact
+Stefan–Boltzmann constant \sigma 5.670\,374\,419... \times 10^{-8} W m⁻² K⁻⁴ exact
+First radiation constant c_1 3.741\,771\,852... \times 10^{-16} W m² exact
+Constant Symbol Value Unit
+Planck mass m_P 2.176\,434(24) \times 10^{-8} kg
+Planck length l_P 1.616\,255(18) \times 10^{-35} m
+Planck time t_P 5.391\,247(60) \times 10^{-44} s
+Planck temperature T_P 1.416\,784(16) \times 10^{32} K
+Constant Symbol Value Unit Notes
+Standard gravity g_n 9.806\,65 m s⁻² exact, conventional
+Hubble constant H_0 \approx 67.4 – 73 km s⁻¹ Mpc⁻¹ method-dependent
+Cosmological constant \Lambda \approx 1.089(29) \times 10^{-52} m⁻² observational
